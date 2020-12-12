@@ -1,2 +1,6 @@
 # Machine-Intelligence-and-Expert-Systems
- Temp
+The Solution for Machine Intelligence and Expert Systems Assignments (EC60091) Autumn 2020 at IIT Kharagpur. This repository is organized as follows-
+
+- A1 - Something.
+- A2 - Something.
+- A3 - Something.
